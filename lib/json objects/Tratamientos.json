@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "623403574b06ffd5a20ba5cb"
+  },
+  "codigo": "0054879",
+  "nombre": "Fisioterapia",
+  "tipo": "Fisico",
+  "nivel": "10"
+},{
+  "_id": {
+    "$oid": "623403574b06ffd5a20ba5cc"
+  },
+  "codigo": "0065487",
+  "nombre": "Quimioterapia",
+  "tipo": "Mecanico",
+  "nivel": "25"
+},{
+  "_id": {
+    "$oid": "623403574b06ffd5a20ba5cd"
+  },
+  "codigo": "0072548",
+  "nombre": "Hidroterapia",
+  "tipo": "Fisico",
+  "nivel": "10"
+}]

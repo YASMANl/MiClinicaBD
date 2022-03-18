@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6233feef4b06ffd5a20ba5b9"
+  },
+  "nombre": "Andrea",
+  "apellido": "Perez",
+  "dia": "22/02/22",
+  "hora": "11am",
+  "tipo": "Medico General"
+},{
+  "_id": {
+    "$oid": "6233feef4b06ffd5a20ba5ba"
+  },
+  "nombre": "Mario",
+  "apellido": "Pantoja",
+  "dia": "24/02/22",
+  "hora": "2pm",
+  "tipo": "Medico General"
+},{
+  "_id": {
+    "$oid": "6233feef4b06ffd5a20ba5bb"
+  },
+  "nombre": "Daniela",
+  "apellido": "Campiño",
+  "dia": "27/02/22",
+  "hora": "8am",
+  "tipo": "Odontologia"
+}]

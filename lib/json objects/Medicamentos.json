@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "623400734b06ffd5a20ba5bf"
+  },
+  "codigo": "010080",
+  "nombre": "Acetaminofen",
+  "tipo": "Analgesicos"
+},{
+  "_id": {
+    "$oid": "623400734b06ffd5a20ba5c0"
+  },
+  "codigo": "018800",
+  "nombre": "Amoxicilina",
+  "tipo": "Antibiotico"
+},{
+  "_id": {
+    "$oid": "623400734b06ffd5a20ba5c1"
+  },
+  "codigo": "100548",
+  "nombre": "Ampicilina",
+  "tipo": "Antibiotico"
+}]

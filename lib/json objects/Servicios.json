@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "623401b94b06ffd5a20ba5c5"
+  },
+  "codigo": "8702548",
+  "nombre": "Dermatologia",
+  "tipo": "Estetica"
+},{
+  "_id": {
+    "$oid": "623401b94b06ffd5a20ba5c6"
+  },
+  "codigo": "8954421",
+  "nombre": "Traumatologia",
+  "tipo": "Traumas"
+},{
+  "_id": {
+    "$oid": "623401b94b06ffd5a20ba5c7"
+  },
+  "codigo": "8512548",
+  "nombre": "Urologia",
+  "tipo": "Patologias"
+}]

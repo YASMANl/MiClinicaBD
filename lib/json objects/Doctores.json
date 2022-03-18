@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6233fdbc4b06ffd5a20ba5b3"
+  },
+  "nombre": "Carlos",
+  "apellido": "Salazar",
+  "genero": "Masculino",
+  "profesion": "Urologo",
+  "edad": "37",
+  "estrato": "4",
+  "rh": "A+"
+},{
+  "_id": {
+    "$oid": "6233fdbc4b06ffd5a20ba5b4"
+  },
+  "nombre": "Pedro",
+  "apellido": "Diaz",
+  "genero": "Masculino",
+  "profesion": "Traumatologo",
+  "edad": "56",
+  "estrato": "5",
+  "rh": "A-"
+},{
+  "_id": {
+    "$oid": "6233fdbc4b06ffd5a20ba5b5"
+  },
+  "nombre": "Estefania",
+  "apellido": "Revelo",
+  "genero": "Femenino",
+  "profesion": "Dermatologa",
+  "edad": "28",
+  "estrato": "3",
+  "rh": "O+"
+}]
